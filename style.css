@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('foto2/Marca\ D´agua\ \ \(2\).png'); /* Altere para o nome correto da sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Altura total da janela */
+}
+
+header {
+    background: rgba(226, 221, 221, 0.8); /* Fundo escuro com transparência */
+    color: #fff;
+    padding: 1px 0;
+    text-align: center;
+}
